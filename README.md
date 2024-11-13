@@ -1,6 +1,3 @@
-# NAME  : THAANESH V
-# REG.NO:212223230228
-
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
@@ -23,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-### Developed By: V.Vignesh
-### Register No.: 212223230241
+### Developed By: THAANESH V
+### Register No.: 212223230228
 
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
